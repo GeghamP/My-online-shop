@@ -1,0 +1,12 @@
+﻿.card__parent{
+	margin-top: 20px;
+}
+
+.price{
+	font-weight: bold;
+	font-size: 18px
+}
+
+.card-body .desc{
+	color: #7f8287;
+}
